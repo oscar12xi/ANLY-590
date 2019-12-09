@@ -16,5 +16,8 @@ The code file using super learner algorithm.
 5. keras_drop.py
 The code file using keras to apply neural network model with dropout layer.
 
-6. AviationData_cleaned_V3.csv
+6. AviationData_RAW.csv
+Collected raw data file of aviation data.
+
+7. AviationData_cleaned_V3.csv
 Cleaned dataset.
